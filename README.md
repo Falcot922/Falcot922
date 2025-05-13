@@ -17,8 +17,28 @@ What I enjoy most is **sharing my knowledge** with others who are eager to learn
 ## 🛠️ Tech Stack
 
 - **Languages**: C, Bash, Python, Java, JS
-- **Tools**: Git, Unity, Visual Studio Code, GDB
-- **Platforms**: Windows, Linux
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</p>
+
+- **Tools**: Git, Unity, Visual Studio Code, GDB  
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/>
+</p>
+
+- **Platforms**: Windows, Linux  
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+
+     
 
 ## 📫 Connect with Me
 
@@ -26,17 +46,4 @@ What I enjoy most is **sharing my knowledge** with others who are eager to learn
 - 📧 Email: falcot.bi@gmail.com
 - 🤖 Discord: **Pampers#7058**
 
-<!--
-**Pamperslegame/Pamperslegame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
