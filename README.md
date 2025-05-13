@@ -40,7 +40,7 @@ What I enjoy most is **sharing my knowledge** with others who are eager to learn
 
      
 
-## 📫 Connect with Me
+## 💻 Connect with Me
 
 - [🌐 LinkedIn](https://www.linkedin.com/in/julienbiout)
 - 📧 Email: falcot.bi@gmail.com
