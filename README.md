@@ -12,7 +12,7 @@ What I enjoy most is **sharing my knowledge** with others who are eager to learn
 
 - 🎮 **[Cardiac Arrest](https://github.com/Pamperslegame/card_game)** — A card game built in Unity 🕹️
 - 🎮 **[Tron](https://github.com/Pamperslegame/tron)** — A tron game made with SDL and Ncurse library of C 🕹️
-- 🧮 **[Calculatrice](https://github.com/Pamperslegame/calculatrice)** — A graphic calculator made with Web Language 🔢
+- 🧮 **[Calculatrice](https://github.com/Pamperslegame/calculatrice)** — A graphic calculator made with Web Language 🔢 (update in progress ⌛)
 
 ## 🛠️ Tech Stack
 
